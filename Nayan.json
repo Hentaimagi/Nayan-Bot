@@ -6,15 +6,15 @@
   "language": "en",
   "notification": true,
   "approval": false,
-  "BOTNAME": "NAYAN-BOT",
+  "BOTNAME": "RANI AI",
   "PREFIX": "/",
   "OPERATOR": [
-    "100014896964436",
-    "100000959749712"
+    "100077587996030",
+    ""
   ],
   "ADMINBOT": [
-    "100014896964436",
-    "100000959749712"
+    "100077587996030",
+    ""
   ],
   "OWNER": ["100000959749712"], 
   "APPROVED": [],
